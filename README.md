@@ -3,7 +3,7 @@
 I'm a 2nd-year Machine Learning Engineer with a keen interest in MLOps, currently exploring LLM and conducting research on various SOTA models.
 
 
-<table>
+<table style="border: none;">
 <tr>
     <td>
     <a href="/" target="_blank"><img src="https://img.shields.io/badge/dev.soojin.an@gmail.com-000000?style=flat-square&logo=Gmail&logoColor=EA4335"/>
